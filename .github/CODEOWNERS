@@ -1,5 +1,6 @@
-# PR을 열면 아래 팀에게 리뷰 요청이 자동으로 갑니다. (작성자 본인은 빠지고 같은 파트 다른 한 명에게)
-*             @ganjithon-14/backend
+# PR을 열면 아래 사람들에게 리뷰 요청이 자동으로 갑니다. (작성자 본인은 제외)
+# 공식 레포에는 팀(@org/team)이 없어서 사람 아이디로 적었습니다.
+*             @rohdaeyoung @sinjuno
 
 # API 명세가 바뀌면 프론트도 같이 봅니다.
-/docs/api/    @ganjithon-14/backend @ganjithon-14/frontend
+/docs/api/    @rohdaeyoung @sinjuno @Taemin217 @seunguk925

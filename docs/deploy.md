@@ -10,8 +10,8 @@
 3. 레포를 받고 환경 파일을 만듭니다.
 
 ```bash
-git clone https://github.com/ganjithon-14/handeulpan-backend.git
-cd handeulpan-backend
+git clone https://github.com/2026Ganzi-Thon/2026_GANZITHON_TEAM_14_BE.git
+cd 2026_GANZITHON_TEAM_14_BE
 git checkout dev
 cp .env.example .env
 nano .env   # DOMAIN, POSTGRES_PASSWORD, HANDEULPAN_DEMO_KEY 채우기

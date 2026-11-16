@@ -40,7 +40,7 @@
 | BE-A · 코어 | [@rohdaeyoung](https://github.com/rohdaeyoung) | `common.config`, `user`, `pasture`, `sheep`, `demo` | 프로젝트 세팅, 사용자(기기 토큰)·들판·양 엔티티, 들판 생성·미리보기·합류·조회, 쓰다듬기, 상태 계산, 데모 되감기 |
 | BE-B · 돌봄·운영 | [@sinjuno](https://github.com/sinjuno) | `bubble`, `keyword`, `scarf`, `push`, `config`, 배포 설정 | 말풍선 API·위험 키워드 검사, 목도리 API, 서버·DB 배포, Swagger, 공통 응답·에러 형식, 시연용 시드 데이터, 프론트 연동 지원, P1(푸시·반응·낮잠) |
 
-패키지 이름은 [용어표](https://github.com/ganjithon-14/.github/blob/main/CONTRIBUTING.md#5-용어-코드-이름-통일)를 따릅니다.
+패키지 이름은 [용어표](CONTRIBUTING.md#5-용어-코드-이름-통일)를 따릅니다.
 
 ## API 명세
 
@@ -52,8 +52,8 @@
 
 - `main` 배포 / `dev` 통합(기본) / `feat/be-a-{이슈}-{설명}`, `feat/be-b-{이슈}-{설명}`
 - `dev`, `main`은 PR + 승인 1명이 있어야 머지됩니다. 리뷰어는 같은 파트의 다른 한 명입니다.
-- 자세한 규칙: [CONTRIBUTING.md](https://github.com/ganjithon-14/.github/blob/main/CONTRIBUTING.md)
+- 자세한 규칙: [CONTRIBUTING.md](CONTRIBUTING.md)
 
 ## 관련 레포
 
-- 프론트엔드: [handeulpan-frontend](https://github.com/ganjithon-14/handeulpan-frontend)
+- 프론트엔드: [2026_GANZITHON_TEAM_14_FE](https://github.com/2026Ganzi-Thon/2026_GANZITHON_TEAM_14_FE)
